@@ -1,0 +1,24 @@
+#contents {
+  width: 80%;
+  margin: 40px auto;
+}
+
+header, footer {
+  background-color: #6d4aad;
+}
+
+#container {
+  background-color: #abbddb;
+  display: flex;
+
+}
+
+nav {
+  width: 20%;
+  background-color: #dBd16B;
+}
+
+main {
+  width: 80%;
+  background-color: #ce6Bdb;
+}
